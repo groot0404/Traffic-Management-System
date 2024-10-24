@@ -1,5 +1,7 @@
 # traffic-control-system
 This project is made keeping the frequent traffic blockages in mind. This project mainly focuses on management of traffic
+Detects traffic density by identifying cars in video feeds using computer vision, enabling real-time monitoring of vehicle flow at intersections.
+Automates traffic light control based on vehicle detection, allowing dynamic traffic management to reduce congestion and prioritize emergency vehicles.
 
 # running
 1. Download all files
